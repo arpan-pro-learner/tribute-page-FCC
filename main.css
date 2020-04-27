@@ -1,8 +1,11 @@
 body {
   background-color: #77d8d8;
-  font-size: 25px;
+  font-size: 1.55rem;
   color: black;
   text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  ma
 }
 header {
   font-family: "Open Sans", sans-serif;
@@ -28,7 +31,7 @@ img {
 
 figure {
   text-align: center;
-  font-size: 10px;
+  font-size: 1.55rem;
 }
 
 /*.center {
@@ -37,10 +40,6 @@ figure {
 }*/
 main {
   font-family: "Open Sans", sans-serif;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
 }
 figcaption {
   font-family: "Open Sans", sans-serif;
